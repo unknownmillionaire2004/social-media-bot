@@ -1,0 +1,23 @@
+name: Social Media Auto-Poster
+on:
+  schedule:
+    - cron: '0 4,7,13 * * *'
+  workflow_dispatch:
+
+jobs:
+  post-to-social:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: npm install
+      - name: Run Social Media Bot
+        run: node bot.js
+        env:
+          INSTAGRAM_USERNAME: ${{ secrets.INSTAGRAM_USERNAME }}
+          INSTAGRAM_PASSWORD: ${{ secrets.INSTAGRAM_PASSWORD }}
