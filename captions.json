@@ -1,18 +1,78 @@
 {
   "videos": [
     {
-      "filename": "video1.mp4",
-      "caption": "Your first amazing video! 🔥 #viral #trending",
+      "drive_link": "https://drive.google.com/uc?id=1EYfrkTY43BM6HyFcPLWxYcTLELaBLD6X",
+      "caption": "Breaking: AI transforms news reporting forever! 🚀 #AInews #TechReporting #MediaRevolution #ArtificialIntelligence",
       "posted": false
     },
     {
-      "filename": "video2.mp4",
-      "caption": "Another great content! 🚀 #success #motivation", 
+      "drive_link": "https://drive.google.com/uc?id=1aDqSD7sYsYDGYQjtzWAlor9y-1t1sqge",
+      "caption": "How AI is changing journalism as we know it! 📰 #AIjournalism #DigitalMedia #NewsAutomation #TechNews",
       "posted": false
     },
     {
-      "filename": "video3.mp4",
-      "caption": "Changing the game! 💯 #entrepreneur #mindset",
+      "drive_link": "https://drive.google.com/uc?id=1q5jk0rvxnJRNKz7drgtlxoyC96eBX4PV",
+      "caption": "AI reporters - threat or opportunity for journalists? 🤖 #AIReporter #JournalismTech #MediaFuture #NewsAI",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=19NFNYvp9RV9ROj6TT_R2hJvcB6TyudQJ",
+      "caption": "Exclusive: Inside AI-powered newsrooms! 🏢 #AINewsroom #SmartMedia #DigitalTransformation #NewsTech",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=1lYU0YpITcSxA9unovVZczwSB0QKYvJJk",
+      "caption": "AI writes news faster than humans! ⚡ #NewsAutomation #FastMedia #AIWriting #ContentCreation",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=1dq3Z09v8emlEHw7Cs1WITMsKKpcVPwM9",
+      "caption": "AI in broadcast journalism revolution! 📺 #AIBroadcast #VideoNews #MediaAI #FutureMedia",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=19JO84GYAfNNdaf5iPT5Lj_la1-ZE9eiT",
+      "caption": "How algorithms control your news feed! 🧠 #AlgorithmNews #AICuration #PersonalizedNews #DigitalJournalism",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=1B8zEH74hJPeFtY48deeuDvIIeVWjl1dr",
+      "caption": "AI vs Human reporters - the ultimate showdown! 🥊 #AIvsHuman #ReportingFuture #JournalismDebate",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=1-DIHOBtqZaP6lI8neisjWpORNrv7GAzW",
+      "caption": "Essential AI tools for modern journalists! 🛠️ #AINewsTools #JournalismTech #MediaTools #DigitalJournalist",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=1FNo2W5xpXkVbEm78ka2AZ_JiEahTA53X",
+      "caption": "The rise of virtual AI news anchors! 🎥 #AIAnchor #VirtualNews #DigitalAnchor #FutureNews",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=FILE_ID_11",
+      "caption": "AI can detect fake news instantly! ✅ #AIFactCheck #FakeNewsDetection #TruthAI #MediaVerification",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=FILE_ID_12",
+      "caption": "AI creates personalized news for everyone! 🎯 #PersonalizedNews #AICuration #SmartNews #CustomMedia",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=FILE_ID_13",
+      "caption": "The ethical dilemma of AI in news! ⚠️ #AIEthics #NewsBias #AlgorithmBias #MediaEthics",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=FILE_ID_14",
+      "caption": "AI-generated video news is here! 🎬 #AIVideo #GeneratedNews #VideoAI #DigitalContent",
+      "posted": false
+    },
+    {
+      "drive_link": "https://drive.google.com/uc?id=FILE_ID_15",
+      "caption": "Global news agencies adopting AI! 🌍 #GlobalAI #NewsAgencies #InternationalMedia #AIAdoption",
       "posted": false
     }
   ]
