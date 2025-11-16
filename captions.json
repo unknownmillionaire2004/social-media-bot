@@ -1,0 +1,19 @@
+{
+  "videos": [
+    {
+      "filename": "video1.mp4",
+      "caption": "Your first amazing video! 🔥 #viral #trending",
+      "posted": false
+    },
+    {
+      "filename": "video2.mp4",
+      "caption": "Another great content! 🚀 #success #motivation", 
+      "posted": false
+    },
+    {
+      "filename": "video3.mp4",
+      "caption": "Changing the game! 💯 #entrepreneur #mindset",
+      "posted": false
+    }
+  ]
+}
